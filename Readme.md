@@ -57,11 +57,13 @@ PPM: xxx.x
 
 ### Group Photo
 
-![Group Photo](images/group_photo.jpg)
+<p align="center">
+  <img src="images/group_photo.jpg" alt="Group Photo" width="700"/>
 
 ### Hardware Result – Before Alcohol Detection
 
-![Before Alcohol Detection](images/oled_before.jpg)
+<p align="center">
+  <img src="images/oled_before.jpg" alt="Before Alcohol Detection" width="700"/>
 
 - Lower PPM value indicates clean air
 - High Rs/Ro ratio
@@ -69,7 +71,8 @@ PPM: xxx.x
 
 ### Hardware Result – After Alcohol Detection
 
-![After Alcohol Detection](images/oled_after.jpg)
+<p align="center">
+  <img src="images/oled_after.jpg" alt="After Alcohol Detection" width="700"/>
 
 - Increased PPM value due to alcohol vapors
 - Rs/Ro ratio drops significantly
