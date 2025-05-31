@@ -102,8 +102,6 @@ float ppm = pow(10, (-0.47 * log10(Rs / Ro) + 1.63));
 
 ## Contributors
 
-This project was developed by the following team as part of the **Experiential Learning Program under ARM**:
-
 - Ballambettu Milan Shankar Bhat (4NI23EC019)
 - Pranav Maruti Shanbhag (4NI24EC407)
 - Anirudha Jayaprakash (4NI23EC014)
